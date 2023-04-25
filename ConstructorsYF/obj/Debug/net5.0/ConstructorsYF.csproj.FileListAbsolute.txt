@@ -1,0 +1,16 @@
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\bin\Debug\net5.0\ConstructorsYF.exe
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\bin\Debug\net5.0\ConstructorsYF.deps.json
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\bin\Debug\net5.0\ConstructorsYF.runtimeconfig.json
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\bin\Debug\net5.0\ConstructorsYF.runtimeconfig.dev.json
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\bin\Debug\net5.0\ConstructorsYF.dll
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\bin\Debug\net5.0\ref\ConstructorsYF.dll
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\bin\Debug\net5.0\ConstructorsYF.pdb
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\obj\Debug\net5.0\ConstructorsYF.csproj.AssemblyReference.cache
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\obj\Debug\net5.0\ConstructorsYF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\obj\Debug\net5.0\ConstructorsYF.AssemblyInfoInputs.cache
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\obj\Debug\net5.0\ConstructorsYF.AssemblyInfo.cs
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\obj\Debug\net5.0\ConstructorsYF.csproj.CoreCompileInputs.cache
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\obj\Debug\net5.0\ConstructorsYF.dll
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\obj\Debug\net5.0\ref\ConstructorsYF.dll
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\obj\Debug\net5.0\ConstructorsYF.pdb
+C:\Users\Emily.fixico\source\repos\ConstructorsYF\ConstructorsYF\obj\Debug\net5.0\ConstructorsYF.genruntimeconfig.cache
